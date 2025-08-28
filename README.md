@@ -48,14 +48,23 @@ Distances between centroids are large while intra-cluster distances are small, e
 
 ### Example Centroids
 Cluster 0: [-0.032, -0.230]
+
 Cluster 1: [ 0.585, 0.668]
+
 Cluster 2: [-1.123, 0.018]
+
 Cluster 3: [-0.046, 1.229]
+
 Cluster 4: [ 0.768, -2.836]
+
 Cluster 5: [-0.966, -1.746]
+
 Cluster 6: [ 1.847, -1.189]
+
 Cluster 7: [ 0.292, -1.194]
+
 Cluster 8: [-2.366, -1.194]
+
 Cluster 9: [ 1.395, -0.013]
 
 
@@ -102,7 +111,7 @@ Balanced dendrogram and scatterplot showed **well-separated clusters**, meaning 
 ---
 
 ## 📊 Part 3: Best Clustering
-Final chosen algorithm: **Agglomerative Clustering**
+Final chosen algorithm: **Agglomerative Hierarchical Clustering**
 
 | Cluster | Continent     |
 |---------|---------------|
